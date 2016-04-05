@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusgrammatico03linduoft_0009.png"; bbox 0 0 2264 2830; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 23 756 1966 827">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 23 756 1966 827">
+     <span class='ocr_line' id='line_1_1' title="bbox 23 756 1966 827; baseline -0.003 -2"><span class='ocrx_word' id='word_1_1' title='bbox 23 761 472 827; x_wconf 84' lang='lat' dir='ltr'>ISIDORI</span> <span class='ocrx_word' id='word_1_2' title='bbox 546 757 1345 824; x_wconf 80' lang='lat' dir='ltr'><strong>HISPALENSIS</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1416 756 1966 823; x_wconf 84' lang='lat' dir='ltr'>EPISCOPI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 449 943 1528 989">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 449 943 1528 989">
+     <span class='ocr_line' id='line_1_2' title="bbox 449 943 1528 989; baseline -0.001 -2"><span class='ocrx_word' id='word_1_4' title='bbox 449 943 1105 989; x_wconf 88' lang='lat' dir='ltr'>ETYMOLOGIARUM</span> <span class='ocrx_word' id='word_1_5' title='bbox 1166 943 1365 988; x_wconf 91' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_6' title='bbox 1428 943 1528 988; x_wconf 85' lang='lat' dir='ltr'><strong>XX.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 858 1108 1108 1139">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 858 1108 1108 1139">
+     <span class='ocr_line' id='line_1_3' title="bbox 858 1108 1108 1139; baseline -0.004 0"><span class='ocrx_word' id='word_1_7' title='bbox 858 1108 1108 1139; x_wconf 83' lang='lat' dir='ltr'>EDIDIT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 170 1249 1814 1309">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 170 1249 1814 1309">
+     <span class='ocr_line' id='line_1_4' title="bbox 170 1249 1814 1309; baseline -0.004 0"><span class='ocrx_word' id='word_1_8' title='bbox 170 1253 805 1309; x_wconf 79' lang='lat' dir='ltr'><strong>FRIDERIGUS</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 894 1251 1429 1307; x_wconf 80' lang='lat' dir='ltr'>VILELMUS</span> <span class='ocrx_word' id='word_1_10' title='bbox 1520 1249 1814 1303; x_wconf 80' lang='lat' dir='ltr'><strong>oTTo.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
